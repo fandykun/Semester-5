@@ -1,4 +1,4 @@
-### Pertemuan 1
+## Pertemuan 1
 - Pengenalan apa itu grafkom
   - Pengolahan dari data menjadi grafis
   - Mengubah dari Geometri (3D) menjadi citra (2D)
@@ -10,3 +10,7 @@
   - Presentasi Kelompok 15%
   - Final Project 25%
   - Keaktifan +++
+
+## Pertemuan 2
+- Belajar implementasi WebGL dasar menggunakan JS
+- [Referensi WebGL](https://github.com/davidwparker/programmingtil-webgl)
