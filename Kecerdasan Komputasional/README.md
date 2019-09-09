@@ -1,4 +1,4 @@
-### Pertemuan 1
+## Pertemuan 1
 - Pengenalan apa itu KK
   - Kecerdasan Komputasional secara umum disebut machine learning.
   - Supervised Learning
@@ -12,3 +12,5 @@
   - ETS 25%
   - EAS (FP) 35%
 
+## Pertemuan 2
+- Penjelasan tentang K-Nearest Neighbours (KNN)
