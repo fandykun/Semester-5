@@ -14,3 +14,8 @@
 
 ## Pertemuan 2
 - Penjelasan tentang K-Nearest Neighbours (KNN)
+- Latihan KNN
+
+## Pertemuan 3
+- Belajar dasar python
+
