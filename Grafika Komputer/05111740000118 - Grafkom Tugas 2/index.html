@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Pertemuan 2 (WebGL)</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <canvas id="glcanvas">
+        not supported.
+    </canvas>
+
+    <script name="shader" data-src="vertex.glsl" data-type="vertex" data-version="v1"></script>
+    <script name="shader" data-src="fragment.glsl" data-type="fragment" data-version="v1"></script>
+    <script name="shader" data-src="vertex2.glsl" data-type="vertex" data-version="v2"></script>
+
+    <!-- Library: Signals processing used for dispatching methods -->
+    <!-- sumber: https://cdnjs.cloudflare.com/ajax/libs/js-signals/1.0.0/js-signals.js -->
+    <script type="text/javascript" src="vendor/js/signals.js"></script>
+
+    <!-- javascript untuk menghubungkan WebGL-->
+    <script type="text/javascript" src="libs/glUtils.js"></script>
+    <script type="text/javascript" src="index.js"></script>
+</body>
+</html>

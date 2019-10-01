@@ -14,3 +14,8 @@
 ## Pertemuan 2
 - Belajar implementasi WebGL dasar menggunakan JS
 - [Referensi WebGL](https://github.com/davidwparker/programmingtil-webgl)
+
+## Pertemuan 3
+- Tugas Mandiri
+
+## Pertemuan 4
