@@ -12,6 +12,7 @@ def loadDataset(filename):
         dataset = []
         for row in data:
             dataset.append(row)
+            print(row)
         for i in range(len(dataset)):
             for j in range(len(dataset[i]) - 1):
                 dataset[i][j] = float(dataset[i][j])
